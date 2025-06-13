@@ -1,4 +1,4 @@
-Hi! I'm Rebecca Novis, a student at Boise State University in the Games, Interactive Media, and Mobile Technology (GIMM) major, expected to graduate May 2025.
+Hi! I'm Rebecca Novis, I graduated May 2025 from Boise State University with a BS of Science in Games, Interactive Media, and Mobile Technology (GIMM).
 
 I am an experienced Full Stack Web Developer with a passion for frontend development. I specialize in building responsive, user-friendly, and robust web applications by leveraging my expertise in both frontend and backend technologies. In addition to web development, I also have a background in game development, working with both Unity and Unreal Engine to bring interactive experiences to life. I thrive on tackling creative challenges and continuously pushing my skills to new heights, no matter the project.
 
